@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
 <h3 align="center">Webdesigner & Developer</h3>
 
-- 🌱 I’m currently learning **more Java, JavaScript and TypeScripts**
+- 🌱 I’m currently learning **more Java, JavaScript and TypeScript**
 
 - 📫 How to reach me **hello@dennisjonda.de**
 
